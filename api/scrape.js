@@ -1,4 +1,4 @@
-const DownDetector = require("../downdetector");
+const DownDetector = require("./downdetector");
 
 module.exports = async (req, res) => {
   const site = "t-mobile";
